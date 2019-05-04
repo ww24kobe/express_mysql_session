@@ -1,7 +1,7 @@
 
 //项目的路由模块
 //1.得到路由对象router
-var express = require('express');
+var express =  require('express');
 var router = express.Router();
 //引入控制器模块controller.js
 var controller = require('./controller.js');
